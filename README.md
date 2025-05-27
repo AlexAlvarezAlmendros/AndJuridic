@@ -1,2 +1,14 @@
-# AndJuridic
-AndJuridic es una plataforma web para hacer busqueda intuitiva de la base juridica y la juridisticcion de Andorra haciendo mas optimo el trabajo de los abogados y estudiantes de Andorra. Esta aplicacion ha estado construida por una sola persona ayudada por la inteligencia artificial y esta en construccion.  
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
